@@ -1,2 +1,3 @@
 # Analog-Design
-Analog Design in NTUU KPI Dk
+Personal experience of the Analog Design in NTUU KPI Dk 
+
